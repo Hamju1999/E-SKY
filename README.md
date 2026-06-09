@@ -86,8 +86,7 @@ lib/
 - **IDE:** Android Studio
 
 ## License
-
-MIT License
+[MIT](./LICENSE) © 2021 Mohammad Hamza Piracha
 
 ## Author
 
